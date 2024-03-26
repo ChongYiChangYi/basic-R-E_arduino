@@ -83,7 +83,7 @@ void loop() {
 
 p.24
 -----------------------------------------------------------
-#define max R 10000
+#define max_R 10000
 void setup() {
   Serial.begin(9600); //시리얼 통신 속도를 9600으로 시작
   Serial.println(“Serial Com start”);
